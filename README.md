@@ -22,7 +22,7 @@ A hard-margin SVM was implemented to classify the linearly separable dataset D1.
 
 ### Soft-Margin SVM on D2
 
-A soft-margin SVM was implemented to classify the linearly non-separable dataset D2. It allowed for some misclassifications, achieving an accuracy of 70% on the test set T2.
+A soft-margin SVM was implemented to classify the linearly non-separable dataset D2. It allowed for some misclassifications, achieving an accuracy of 80% on the test set T2.
 
 ### Two-Layer MLP
 
